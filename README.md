@@ -21,7 +21,7 @@
 ![image](https://github.com/fortuna26/fortuna26/assets/131257075/64eb85d9-88cb-4986-8d86-ef8d3fdb4266)
 ![image](https://github.com/fortuna26/fortuna26/assets/131257075/1f25874e-0ca3-4f78-9391-480b90dc8826)
 ![image](https://github.com/fortuna26/fortuna26/assets/131257075/f010e9b3-e430-4cda-8d9d-9be3e03f43db)
-![image](https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg)
+!![image](https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg)
 
 
 
