@@ -13,12 +13,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ **Мой стек:**
-
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/1d13ad46-c67c-4362-bb05-8cbce9ea6ade) ![image](https://github.com/fortuna26/fortuna26/assets/131257075/d88ddf55-ce98-403c-a1e3-926f51b613a7)![image](https://github.com/fortuna26/fortuna26/assets/131257075/bdb94f82-2665-4903-8901-550a4dd13959)
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/702f614c-c741-44cc-b65a-52ec9adc7706)
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/64eb85d9-88cb-4986-8d86-ef8d3fdb4266)
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/1f25874e-0ca3-4f78-9391-480b90dc8826)
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/f010e9b3-e430-4cda-8d9d-9be3e03f43db)
-![image](https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png)
+![image](https://github.com/fortuna26/fortuna26/assets/131257075/1d13ad46-c67c-4362-bb05-8cbce9ea6ade)![image](https://github.com/fortuna26/fortuna26/assets/131257075/d88ddf55-ce98-403c-a1e3-926f51b613a7)![image](https://github.com/fortuna26/fortuna26/assets/131257075/bdb94f82-2665-4903-8901-550a4dd13959)![image](https://github.com/fortuna26/fortuna26/assets/131257075/702f614c-c741-44cc-b65a-52ec9adc7706)
+![image](https://github.com/fortuna26/fortuna26/assets/131257075/64eb85d9-88cb-4986-8d86-ef8d3fdb4266)![image](https://github.com/fortuna26/fortuna26/assets/131257075/1f25874e-0ca3-4f78-9391-480b90dc8826)![image](https://github.com/fortuna26/fortuna26/assets/131257075/f010e9b3-e430-4cda-8d9d-9be3e03f43db)![image](https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png)
 
 
