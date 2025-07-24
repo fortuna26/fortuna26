@@ -36,8 +36,8 @@
   <!-- PyTorch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" alt="PyTorch" />
   <!-- LightGBM -->
-  <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="80" title="LightGBM" alt="LightGBM" style="background: white; padding: 5px;" />
+  <img src="https://img.shields.io/badge/LightGBM-1890FF?style=flat&logo=lightgbm&logoColor=white" title="LightGBM" alt="LightGBM" />
   <!-- CatBoost -->
-  <img src="https://catboost.ai/images/catboost_logo.svg" width="80" title="CatBoost" alt="CatBoost" style="background: white; padding: 5px;" />
+  <img src="https://img.shields.io/badge/CatBoost-FF6F42?style=flat&logo=catboost&logoColor=white" title="CatBoost" alt="CatBoost" />
 
   
