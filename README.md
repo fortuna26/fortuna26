@@ -13,15 +13,33 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ **Мой стек:**
-
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/1d13ad46-c67c-4362-bb05-8cbce9ea6ade)
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/d88ddf55-ce98-403c-a1e3-926f51b613a7)
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/bdb94f82-2665-4903-8901-550a4dd13959)
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/702f614c-c741-44cc-b65a-52ec9adc7706)
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/64eb85d9-88cb-4986-8d86-ef8d3fdb4266)
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/1f25874e-0ca3-4f78-9391-480b90dc8826)
-![image](https://github.com/fortuna26/fortuna26/assets/131257075/f010e9b3-e430-4cda-8d9d-9be3e03f43db)
-![image](https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png)
-
-
+## 🛠️ **Технологии и инструменты:**
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" alt="Python" />
+  <!-- Jupyter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter" alt="Jupyter" />
+  <!-- Anaconda -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" title="Anaconda" alt="Anaconda" />
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker" />
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" alt="PostgreSQL" />
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas" alt="Pandas" />
+  <!-- Scikit-learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn" alt="Scikit-learn" />
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy" alt="NumPy" />
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" title="Matplotlib" alt="Matplotlib" />
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch" alt="PyTorch" />
+  <!-- LightGBM -->
+  <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="80" title="LightGBM" alt="LightGBM" style="background: white; padding: 5px;" />
+  <!-- CatBoost -->
+  <img src="https://catboost.ai/images/catboost_logo.svg" width="80" title="CatBoost" alt="CatBoost" style="background: white; padding: 5px;" />
+  </p>
+  <img src="https://img.shields.io/badge/LightGBM-1890FF?style=flat&logo=lightgbm&logoColor=white" title="LightGBM" alt="LightGBM" />
+  <!-- CatBoost -->
+  <img src="https://img.shields.io/badge/CatBoost-FF6F42?style=flat&logo=catboost&logoColor=white" title="CatBoost" alt="CatBoost" />
